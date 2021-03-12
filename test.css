@@ -1,16 +1,18 @@
 body
 {
-    background: linear-gradient (to bottom, rgb(180, 3, 3),white,rgba(0,0,0,0));
+    background: linear-gradient(to bottom, rgb(145, 1, 1), white);
+    background-repeat: no-repeat;
 }
 
 h1
 {
-    border:2px outset rgb(116, 4, 4);
+    border:2px outset rgb(255, 255, 255);
     color:#0B0B61;
     font-family: 'Courier New', Courier, monospace;
     border-radius: 20px /10px;
     width:7em;
     margin: auto;
+    text-align:center;
     
 
 }
@@ -22,8 +24,8 @@ img
     height:250;
 }
 
-p
+a
 {
-    text-align:justify;
+    clear:left;
 }
 
