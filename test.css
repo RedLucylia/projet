@@ -42,7 +42,7 @@ p
 {
     float: right;
 }
-#Medhi:visited
+a:visited
 {
     text-decoration: none;
     color:blue;
