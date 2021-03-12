@@ -1,0 +1,23 @@
+html
+{
+    background: linear-gradient (to bottom, rgb(180, 3, 3),white,rgba(0,0,0,0));
+}
+
+h1
+{
+    border:2px outset rgb(116, 4, 4);
+    margin:auto;
+}
+
+img 
+{
+    float:left;
+    width: 300;
+    height:300;
+}
+
+p
+{
+    text-align:justify;
+}
+
