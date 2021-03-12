@@ -19,13 +19,23 @@ h1
 
 img 
 {
-    float:left;
+    margin-top: 50px;
+    float:center;
     width: 300;
     height:250;
+    
 }
 
-a
+
+p
 {
     clear:left;
 }
 
+#Medhi:visited
+{
+    text-decoration: none;
+    color:blue;
+    text-align: right;
+
+}
